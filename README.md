@@ -13,4 +13,10 @@ Tasks Included:
 - Data Visualization
 - Git & Version Control
 
+<<<<<<< HEAD
 ### wow its  nice outside
+### Statistical Analysis Tasks Added
+>>>>>>> conflict-branch
+
+### wow its  nice outside
+### Statistical Analysis Tasks Added
