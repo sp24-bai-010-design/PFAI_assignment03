@@ -12,3 +12,5 @@ Tasks Included:
 - EDA
 - Data Visualization
 - Git & Version Control
+
+### Statistical Analysis Tasks Added in conflict
